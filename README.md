@@ -1,5 +1,5 @@
 # SudokuProgram
-Sudoku Program for CIS 3501. Program contains a Sudoku solver and creator.
+Sudoku Program for Data Structures and Algorithms Class. Program contains a Sudoku solver and creator.
 
 Sudoku is a number-placement puzzle has the objective to fill a square grid of size n with numbers between 1 to n. The numbers are required to be placed so each row and column, and each of the square sub-grids (when present) contains all of the numbers from 1 to n.
 The most common Sudoku puzzles use a 9 x 9 grid. The grids are partially filled, requiring a minimum of 17 numbers, so that the player can reach a solution.
