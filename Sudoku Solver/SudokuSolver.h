@@ -1,5 +1,5 @@
 //	Program Name:		Sudoku Program Solver
-//	Programmer Name:	Ahmed Mazloum
+//	Programmer Name:	Husam Alsheikh
 //	Description:		Program utilizing backtracking algorithim to solve sudoku puzzle
 //	Date Created:		08/08/2020
 
